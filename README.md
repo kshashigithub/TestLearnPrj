@@ -1,8 +1,6 @@
 # TestLearnPrj
+#Learn Python
+Print ("Hello World")
 
-Learn Python
-
-Print "Hello World"
-Learn Java
-
+#Learn Java
 System.out.print("Hello Java");
